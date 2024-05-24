@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+  width: 300px;
+  padding: 10px;
+  font-family:"poetsen one",sans-serif;
+  background-color: black;
+  color: aliceblue;
+}
+span{
+    font-size: 20px;
+    font-weight: 300;
+}
+img{
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 25px;
+    height: 25px;
+}
+#thought {
+  background-color: aliceblue;
+  font-size: 14px;
+  padding: 10px;
+  color: black;
+  letter-spacing: 0.8px;
+}
